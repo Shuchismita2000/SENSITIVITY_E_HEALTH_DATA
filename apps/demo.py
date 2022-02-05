@@ -9,21 +9,28 @@ def app():
     transaction_user = pd.read_csv("data_csv/transaction-user.csv")
 
     if uploaded_file is not None:
-        options = st.radio("Show", ('Database', 'Attributes', 'Quasi-Identifiers','weights'
-                                    'Transformed Data', 'Sensitivity of Attribute'))
+        options = st.radio("Show", ('Database', 'Attributes','Identifiers & Quasi-Identifiers','weights'
+                                    ,'Transformed Data', 'Sensitivity of Attribute'))
         df = pd.read_csv(uploaded_file)
         if options == 'Database':
             st.table(df.head())
         if options == 'Attributes':
-            st.markdown("""name,Contact,age,gender,height,weight,ap_hi,ap_lo,cholesterol,gluc,
+            st.markdown("""
+            *The attributes of this particular dataset are*
+            
+            name,Contact,age,gender,height,weight,ap_hi,ap_lo,cholesterol,gluc,
             smoke,alco,active,cardio,BMI,BMICat,pneumonia,diabetes,copd,asthma,inmsupr,city,
             Insurance_ID,InsuranceAmount,Married,Income,medicine""")
 
-        if options == 'Quasi-Identifiers':
-            st.markdown('name,Contact,,Insurance_ID,InsuranceAmount')
+        if options == 'Identifiers & Quasi-Identifiers':
+            st.markdown("""
+            *The Identifiers & Quasi-Identifiers of this particular dataset are*
+            
+            name,Contact,Insurance_ID,InsuranceAmount.""")
 
         if options == 'weights':
-            st.table("data_csv/weights.csv")
+            weight=pd.read_csv("data_csv/weights.csv")
+            st.table(weight)
 
 
         if options == 'Transformed Data':
