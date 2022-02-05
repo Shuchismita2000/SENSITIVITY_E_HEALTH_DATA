@@ -46,10 +46,16 @@ class MultiApp:
             format_func=lambda app: app['title'])
 
         st.sidebar.markdown("""
-                Presented by Shuchismita Mallick with guidence of Prof. Sayantani Saha.
-                Roll no-30017120002
-                Registration no-203001817110002
+                Presented by **Shuchismita Mallick** 
+                
+                with guidance of **Prof. Sayantani Saha**.
+                
+                Roll no-**30017120002**
+                
+                Registration no-**203001817110002**
+               
                 Course - M.Sc. IT(Artificial Intelligence)
+               
                 Semester - III
                 """)
         app['function']()
