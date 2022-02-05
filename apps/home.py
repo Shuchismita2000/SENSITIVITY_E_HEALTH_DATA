@@ -9,12 +9,19 @@ def app():
         st.subheader("Utility")
         st.markdown("""
             If we ask Why health data is important in research? Then as answer we get many points
+            
             Diagnosis of rare diseases
+            
             Improving the performance of health system
+            
             Identifying disease early
+            
             Studying the effects of immunisation
+            
             Better understanding why certain populations are affected differently by the same disease 
+            
             Accessing the safety of medical interventions
+            
             Making connections between diseases and lifestyle choices
 
             """)
@@ -24,15 +31,20 @@ def app():
         st.subheader("Data Leakage Possibility")
         st.image("image/data_usage.png")
         st.markdown("""
-            Accidental disclosure : Healthcare personnel unintentionally disclose patient information 
+            
+            **Accidental disclosure** : Healthcare personnel unintentionally disclose patient information 
             to others 
-            Insider curiosity : An insider with data-access privilege pries upon a patient’s records 
+            
+            **Insider curiosity** : An insider with data-access privilege pries upon a patient’s records 
             out of curiosity or for their own purpose
-            Data breach by insider : Insiders access patient information and transmit it to outsiders 
+            
+            **Data breach by insider** : Insiders access patient information and transmit it to outsiders 
             for profit or revenge.
-            Data breach by outsider with physical intrusion : An outsider enters the physical facility 
+            
+            **Data breach by outsider with physical intrusion** : An outsider enters the physical facility 
             either by coercion or forced entry and gains access to the system. 
-            Unauthorised intrusion of network system : An outsider, including former employees, 
+            
+            **Unauthorised intrusion of network system** : An outsider, including former employees, 
             patients, or hackers, intrudes into an organisation’s network from the outside to gain 
             access to patient information or render the system inoperable.  
 
@@ -77,9 +89,15 @@ def app():
     with st.container():
         st.subheader("Process")
         st.image("image/process.png")
-        st.markdown("""Now , our main goal is to maintain the balance between utility and privacy.We must want data 
-            for analyzing and improving our health system.Other  hand, we have to respect the privacy of patients 
-            with our humanity. 
-
+        st.markdown("""
+                
+                Before thinking of balancing of utility and privacy we must have to predict which data patient don't want to
+             disclose. 
+             
+             Individual permission collection is here impossible and sounds like fool. Iin that case we try to 
+             build a model which define sensitive attributes for our further use. Still, we are working on building this 
+             model.
+             
+             If we start to describe the whole process path which I follow then we have to split it in different parts. 
              """)
 
