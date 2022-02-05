@@ -1,0 +1,56 @@
+name,Contact,age,gender,height,weight,ap_hi,ap_lo,cholesterol,gluc,smoke,alco,active,cardio,BMI,BMICat,pneumonia,diabetes,copd,asthma,inmsupr,city,Insurance_ID,InsuranceAmount,Married,Income,Medicine
+patient1,8763694692,27,Female,168,62,110,80,1,1,0,0,1,0,22,Normal,2,2,2,2,2,city_103,LP001002,128,No,5849,Cretox Cp Tablet 10's
+patient2,8763694692,24,Male,156,85,140,90,3,1,0,0,1,1,34.9,Obese,2,2,2,2,2,city_104,LP001003,128,Yes,4583,CUTICOLOR BLACK HAIR COLORING Cream 60gm
+patient3,8763694692,54,Male,165,64,130,70,3,1,0,0,0,1,23.5,Normal,2,2,2,2,2,city_105,LP001004,66,Yes,3000,CUTICOLOR DARK BROWN HAIR COLORING Cream 60gm
+patient4,8763694692,30,Female,169,82,150,100,1,1,0,0,1,1,28.7,Over Weight,1,2,2,2,2,city_106,LP001005,120,Yes,2583,Cutilite Cream 20gm
+patient5,8763694692,60,Male,156,56,100,60,1,1,0,0,0,0,23,Normal,2,1,2,2,2,city_107,LP001006,141,No,6000,Cutirinz S Face Wash 70gm
+patient6,8763694692,47,Male,151,67,120,80,2,2,0,0,0,0,29.4,Over Weight,1,1,2,2,2,city_108,LP001007,267,Yes,5417,Cutirinz Foaming Face Wash 100ml
+patient7,8763694692,63,Male,157,93,130,80,3,1,0,0,1,0,37.7,Obese,2,2,2,2,2,city_109,LP001008,95,Yes,2333,Cutirinz Foaming Face Wash Gel 70ml
+patient8,8763694692,56,Female,178,95,130,90,3,3,0,0,1,1,30,Obese,2,2,2,2,2,city_110,LP001009,158,Yes,3036,Cutishine Face Wash 70gm
+patient9,8763694692,41,Male,158,71,110,70,1,1,0,0,1,0,28.4,Over Weight,2,2,2,2,2,city_111,LP001010,168,Yes,4006,Cutiwash Soft Foaming Face Wash 60ml
+patient10,8763694692,39,Male,164,68,110,60,1,1,0,0,0,0,25.3,Over Weight,1,2,2,2,2,city_112,LP001011,349,Yes,12841,Cutiyt Total Cream 15gmCutiyt Total Cream 30gm
+patient11,8763694692,46,Male,169,80,120,80,1,1,0,0,1,0,28,Over Weight,1,2,2,2,2,city_113,LP001012,70,Yes,3200,Cytalon 100Mg Injection 1's
+patient12,8763694692,45,Female,173,60,120,80,1,1,0,0,1,0,20,Normal,2,2,2,2,2,city_114,LP001013,109,Yes,2500,CYTOSORB Device 1's
+patient13,8763694692,28,Female,165,60,120,80,1,1,0,0,0,0,22,Normal,2,2,2,2,2,city_115,LP001014,200,Yes,3073,D Acne Soft Face Wash 100gm
+patient14,8763694692,34,Male,158,78,110,70,1,1,0,0,1,0,31.2,Obese,2,2,2,2,2,city_116,LP001015,114,No,1853,Daffy Bar 75gm
+patient15,8763694692,38,Female,181,95,130,90,1,1,1,1,1,0,29,Over Weight,2,2,2,2,2,city_117,LP001016,17,Yes,1299,Danil Antidandruff Shampoo 100ml
+patient16,8763694692,34,Female,172,112,120,80,1,1,0,0,0,1,37.9,Obese,2,2,2,2,2,city_118,LP001017,125,No,4950,Dermadew Baby Lotion 80ml
+patient17,8763694692,49,Male,170,75,130,70,1,1,0,0,0,0,26,Over Weight,2,1,2,2,2,city_119,LP001018,100,No,3596,Dicit Syrup 100ml
+patient18,8763694692,46,Male,158,52,110,70,1,3,0,0,1,0,20.8,Normal,2,2,2,2,2,city_120,LP001019,76,No,0,Doliprane 100mg Drops 15ml
+patient19,8763694692,39,Male,154,68,100,70,1,1,0,0,0,0,28.7,Over Weight,2,2,2,2,2,city_121,LP001020,133,Yes,4887,Dolonex Gel 15gm
+patient20,8763694692,63,Female,162,56,120,70,1,1,1,0,1,0,21.3,Normal,2,1,2,2,2,city_122,LP001021,115,Yes,2600,DS GOLD ANTI AGEING Cream 50gmDS GOLD ANTI AGEING Face Wash 100gm
+patient21,8763694692,54,Female,163,83,120,80,1,1,0,0,1,0,31.2,Obese,2,2,2,2,2,city_123,LP001022,104,Yes,7660,E Dew Cream 50gm
+patient22,8763694692,25,Male,157,69,130,80,1,1,0,0,1,0,28,Over Weight,2,2,2,2,2,city_124,LP001023,315,Yes,5955,Ekran Aqua SPF 30+ Gel 50gm
+patient23,8763694692,45,Male,158,90,145,85,2,2,0,0,1,1,36.1,Obese,2,2,2,2,2,city_125,LP001024,116,Yes,2600,Ekran SPF 70 Ultra Sunscreen Cream 50gm
+patient24,8763694692,40,Female,156,45,110,60,1,1,0,0,1,0,18.5,Normal,2,2,2,2,2,city_126,LP001025,112,Yes,3365,Elovera SPF Plus Lotion 30gm 100ml
+patient25,8763694692,61,Male,170,68,150,90,3,1,0,0,1,1,23.5,Normal,2,2,2,2,2,city_127,LP001026,151,Yes,3717,ENTODASE 1500iu Injection 1ml
+patient26,8763694692,40,Male,153,65,130,100,2,1,0,0,1,0,27.8,Over Weight,2,2,2,2,2,city_128,LP001027,191,Yes,9560,Epiglo Soap 75gm
+patient27,8763694692,31,Male,156,59,130,90,1,1,0,0,1,0,24.2,Normal,2,2,2,2,2,city_129,LP001068,122,Yes,2799,ESOTREND D Capsule 10's
+patient28,8763694692,40,Male,159,78,120,80,1,1,0,0,1,0,30.9,Obese,2,2,2,2,2,city_130,LP001073,110,Yes,4226,Ethiglo Face Wash 200gm
+patient29,8763694692,33,Female,166,66,120,80,1,1,0,0,1,0,24,Normal,2,2,2,2,2,city_131,LP001086,35,No,1442,Eveonza Face Wash 100ml
+patient30,8763694692,49,Female,169,74,130,70,1,3,0,0,0,0,25.9,Over Weight,1,2,2,2,2,city_132,LP001087,120,No,3750,Ezinapi + Cream 30gmEzinapi + Cream 10gmEzinapi + Cream 50gm
+patient31,8763694692,52,Male,155,105,120,80,3,1,0,0,1,1,43.7,Obese,2,2,2,2,2,city_133,LP001091,201,Yes,4166,Facidase 1500IU Injection 2ml
+patient32,8763694692,83,Male,169,71,140,90,3,1,0,0,1,1,24.9,Normal,2,1,1,2,1,city_134,LP001095,74,No,3167,Fair Lite Skin Lightening Face Wash 90ml
+patient33,8763694692,43,Male,159,60,110,70,1,1,0,0,1,0,23.7,Normal,2,2,2,2,2,city_135,LP001097,106,No,4692,Fash Foam 100ml
+patient34,8763694692,56,Male,160,73,130,85,1,1,0,0,0,1,28.5,Over Weight,2,2,2,2,2,city_136,LP001098,114,Yes,3500,Fash X Gel Face Wash 200gm
+patient35,8763694692,54,Female,173,82,140,90,3,1,0,0,0,1,27.4,Over Weight,2,2,2,2,2,city_137,LP001100,320,No,12500,Faximab Syringe Filter Device
+patient36,8763694692,38,Male,163,55,120,80,1,1,0,0,1,0,20.7,Normal,2,2,2,2,2,city_138,LP001106,,Yes,2275,Femcinol OS Face Wash 70ml
+patient37,8763694692,77,Female,175,95,120,80,1,1,0,0,1,0,31,Obese,1,2,2,2,2,city_139,LP001109,100,Yes,1828,Femcinol X Face Wash 70ml
+patient38,8763694692,37,Male,164,70,130,90,1,1,0,0,1,0,26,Over Weight,2,2,2,2,2,city_140,LP001112,144,Yes,3667,Flucold AF Syrup 60mlFlucold AF Drops 15ml
+patient39,8763694692,32,Female,162,72,130,80,1,1,1,0,1,1,27.4,Over Weight,2,2,2,2,2,city_141,LP001114,184,No,4166,Footlin Cream 25gmFootlin Cream 50gm
+patient40,8763694692,56,Male,165,70,140,90,1,1,0,0,1,1,25.7,Over Weight,1,2,2,2,2,city_142,LP001116,110,No,3748,Alex Syrup 100ml
+patient41,8763694692,47,Male,157,62,110,70,1,1,0,0,0,0,25.2,Over Weight,2,2,2,2,2,city_143,LP001119,80,No,3600,Gastrazine Capsule 10'S
+patient42,8763694692,53,Male,178,68,110,80,1,1,0,0,1,1,21.5,Normal,1,1,2,2,2,city_144,LP001120,47,No,1800,Gefer Capsule 10'S
+patient43,8763694692,37,Female,171,69,140,90,1,1,0,0,1,1,23.6,Normal,2,2,2,2,2,city_145,LP001123,75,Yes,2400,Gentle Milk Cleanser 200ml
+patient44,8763694692,42,Female,159,63,120,60,1,1,0,0,1,1,24.9,Normal,2,1,2,2,2,city_146,LP001131,134,Yes,3941,Romsons Guedal Airway 3
+patient45,8763694692,53,Male,154,50,170,80,3,1,0,0,1,1,21.1,Normal,2,2,2,2,2,city_147,LP001136,96,Yes,4695,Hexilak Ultra Gel 10gmHexilak Ultra Gel(Topical) 15gm
+patient46,8763694692,77,Male,162,64,140,90,1,1,0,0,1,1,24.4,Normal,1,2,1,2,2,city_148,LP001137,88,No,3410,Himalaya Oil 100ml
+patient47,8763694692,41,Male,162,107,150,90,2,1,0,0,1,1,40.8,Obese,2,1,2,2,2,city_149,LP001138,44,Yes,5649,Hyseac Mat Cream 40gm
+patient48,8763694692,53,Female,168,69,120,80,1,1,0,0,0,0,24.4,Normal,2,2,2,2,2,city_150,LP001144,144,Yes,5821,I Sure Ovulation Strip
+patient49,8763694692,52,Female,175,70,120,80,2,1,0,0,1,0,22.9,Normal,2,2,2,2,2,city_151,LP001146,120,Yes,2645,Iklen Serum Cream 30ml
+patient50,8763694692,43,Male,170,69,120,70,1,1,0,0,1,0,23.9,Normal,2,2,2,2,2,city_152,LP001151,144,No,4000,Imxia Plus Shampoo 125ml
+
+
+
+
+
