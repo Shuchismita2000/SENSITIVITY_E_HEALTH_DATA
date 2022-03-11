@@ -38,9 +38,13 @@ def app():
             pathologist = pd.read_csv("data_csv/pathologis_transaction.csv")
             pharmacist = pd.read_csv("data_csv/pharmasist_transaction.csv")
             researcher = pd.read_csv("data_csv/researcher_transaction.csv")
+            st.markdown("""*Transformed data for Doctors* """)
             st.table(doctor.head())
+            st.markdown("""*Transformed data for Pathologist* """)
             st.table(pathologist.head())
+            st.markdown("""*Transformed data for Pharmacist* """)
             st.table(pharmacist.head())
+            st.markdown("""*Transformed data for Researcher* """)
             st.table(researcher.head())
 
         if options == 'Sensitivity of Attribute':
